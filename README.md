@@ -35,6 +35,11 @@ This was a premium client project delivered during my internship, where I worked
 ---
 
 
+## Screenshot 
+![Duchess Home Page](https://github.com/user-attachments/assets/cddbce1b-a8bc-4e52-9766-ff3aa62fc9bb)
+
+
+
 
 
 
